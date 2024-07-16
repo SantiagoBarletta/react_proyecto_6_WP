@@ -1,0 +1,380 @@
+[
+  {
+      "nombre": "Freddy Krueger",
+      "thumbnail": "freddy",
+      "ultima_conexion": "ayer",
+      "id": 1,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Freddy Krueger",
+              "texto": "¿Tenes pesadillas últimamente?",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "13:00",
+              "id": "1"
+          },
+          {
+              "autor": "yo",
+              "texto": "¡Freddy! No he podido dormir bien desde que te conocí.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "13:05",
+              "id": "2"
+          },
+          {
+              "autor": "Freddy Krueger",
+              "texto": "Eso me alegra.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "13:06",
+              "id": "3"
+          },
+          {
+              "autor": "yo",
+              "texto": "¿Por qué disfrutas tanto con eso?",
+              "estado": "entregado",
+              "dia": "hoy",
+              "hora": "13:10",
+              "id": "4"
+          },
+          {
+              "autor": "Freddy Krueger",
+              "texto": "A mimir!",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "13:12",
+              "id": "5"
+          }
+      ]
+  },
+  {
+      "nombre": "Jason Voorhees",
+      "thumbnail": "jason",
+      "ultima_conexion": "ayer",
+      "id": 2,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Jason Voorhees",
+              "texto": "¿Vienes al campamento este fin de semana?",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "14:00",
+              "id": "1"
+          },
+          {
+              "autor": "yo",
+              "texto": "¡No, gracias! No quiero terminar destripado.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "14:05",
+              "id": "2"
+          },
+          {
+              "autor": "Jason Voorhees",
+              "texto": "Qué pena, hubiera sido divertido.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "14:10",
+              "id": "3"
+          },
+          {
+              "autor": "yo",
+              "texto": "Para vos, quizás.",
+              "estado": "entregado",
+              "dia": "hoy",
+              "hora": "14:15",
+              "id": "4"
+          }
+      ]
+  },
+  {
+      "nombre": "Chucky",
+      "thumbnail": "chucky",
+      "ultima_conexion": "hoy",
+      "id": 3,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Chucky",
+              "texto": "Hola, amigo. ¿Quieres jugar?",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "15:00",
+              "id": "1"
+          },
+          {
+              "autor": "yo",
+              "texto": "¡Chucky! No estoy de humor para tus juegos.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "15:05",
+              "id": "2"
+          },
+          {
+              "autor": "Chucky",
+              "texto": "Vamos, solo será un rato.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "15:10",
+              "id": "3"
+          },
+          {
+              "autor": "yo",
+              "texto": "No confío en vos.",
+              "estado": "entregado",
+              "dia": "hoy",
+              "hora": "15:15",
+              "id": "4"
+          }
+      ]
+  },
+  {
+      "nombre": "Pennywise",
+      "thumbnail": "pennywise",
+      "ultima_conexion": "hoy",
+      "id": 4,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Pennywise",
+              "texto": "¿Te gustan los globos?",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "16:00",
+              "id": "1"
+          },
+          {
+              "autor": "yo",
+              "texto": "No, y menos cuando tú los ofreces.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "16:05",
+              "id": "2"
+          },
+          {
+              "autor": "Pennywise",
+              "texto": "Todos flotan aquí.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "16:10",
+              "id": "3"
+          },
+          {
+              "autor": "yo",
+              "texto": "¡Prefiero no averiguarlo!",
+              "estado": "entregado",
+              "dia": "hoy",
+              "hora": "16:15",
+              "id": "4"
+          }
+      ]
+  },
+  {
+      "nombre": "Michael Myers",
+      "thumbnail": "michael",
+      "ultima_conexion": "ayer",
+      "id": 5,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Michael Myers",
+              "texto": "¿Alguna vez has sentido que alguien te sigue?",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "17:00",
+              "id": "1"
+          },
+          {
+              "autor": "yo",
+              "texto": "Espero que no estés detrás de mí, Michael.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "17:05",
+              "id": "2"
+          },
+          {
+              "autor": "Michael Myers",
+              "texto": "Nunca se sabe.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "17:10",
+              "id": "3"
+          },
+          {
+              "autor": "yo",
+              "texto": "Siempre tan enigmático.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "17:15",
+              "id": "4"
+          }
+      ]
+  },
+  {
+      "nombre": "Leatherface",
+      "thumbnail": "leatherface",
+      "ultima_conexion": "hoy",
+      "id": 6,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Leatherface",
+              "texto": "¿Te gustan las barbacoas?",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "18:00",
+              "id": "1"
+          },
+          {
+              "autor": "yo",
+              "texto": "No si tú eres el chef.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "18:05",
+              "id": "2"
+          },
+          {
+              "autor": "Leatherface",
+              "texto": "Es una lástima.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "18:10",
+              "id": "3"
+          },
+          {
+              "autor": "yo",
+              "texto": "Sí, seguro que lo es.",
+              "estado": "noEntregado",
+              "dia": "hoy",
+              "hora": "18:15",
+              "id": "4"
+          }
+      ]
+  },
+  {
+      "nombre": "Jigsaw",
+      "thumbnail": "jigsaw",
+      "ultima_conexion": "hoy",
+      "id": 7,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Jigsaw",
+              "texto": "¿Quieres jugar un juego?",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "19:00",
+              "id": "1"
+          },
+          {
+              "autor": "yo",
+              "texto": "Prefiero no participar, gracias.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "19:05",
+              "id": "2"
+          }
+      ]
+  },
+  {
+      "nombre": "Ghostface",
+      "thumbnail": "ghostface",
+      "ultima_conexion": "hoy",
+      "id": 8,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Ghostface",
+              "texto": "¿Cuál es tu película de terror favorita?",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "20:00",
+              "id": "1"
+          },
+          {
+              "autor": "yo",
+              "texto": "No tengo una favorita, pero me gustan las clásicas.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "20:05",
+              "id": "2"
+          },
+          {
+              "autor": "Ghostface",
+              "texto": "Interesante elección.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "20:10",
+              "id": "3"
+          },
+          {
+              "autor": "yo",
+              "texto": "¿Cuál es la tuya?",
+              "estado": "entregado",
+              "dia": "hoy",
+              "hora": "20:15",
+              "id": "4"
+          }
+      ]
+  },
+  {
+      "nombre": "Samara",
+      "thumbnail": "samara",
+      "ultima_conexion": "ayer",
+      "id": 9,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Samara",
+              "texto": "Siete días...",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "21:00",
+              "id": "1"
+          }
+      ]
+  },
+  {
+      "nombre": "Regan MacNeil",
+      "thumbnail": "regan",
+      "ultima_conexion": "hoy",
+      "id": 10,
+      "nro": "555-555-5555",
+      "mensajes": [
+          {
+              "autor": "Regan MacNeil",
+              "texto": "Mi madre cocina en el infierno.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "22:00",
+              "id": "1"
+          },
+          {
+              "autor": "yo",
+              "texto": "Regan, ¿sigues poseída?",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "22:05",
+              "id": "2"
+          },
+          {
+              "autor": "Regan MacNeil",
+              "texto": "El poder de Cristo te obliga.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "22:10",
+              "id": "3"
+          },
+          {
+              "autor": "yo",
+              "texto": "Espero que te recuperes pronto.",
+              "estado": "visto",
+              "dia": "hoy",
+              "hora": "22:15",
+              "id": "4"
+          }
+      ]
+  }
+]
